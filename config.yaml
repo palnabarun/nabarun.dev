@@ -19,6 +19,8 @@ params:
       link: https://linkedin.com/in/palnabarun
   taxonomies:
     tags: tags
+  css:
+    - css/custom.css
 markup:
   highlight:
     codeFences: true
