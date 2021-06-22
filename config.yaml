@@ -1,0 +1,28 @@
+baseURL: "https://nabarun.dev/"
+languageCode: "en-us"
+title: "Nabarun Pal"
+theme: "cactus"
+params:
+  description: "Open Source. Distributed Systems. Infrastructure."
+  showMainSection: false
+  mainSection: "posts"
+  mainSectionTitle: Posts
+  colortheme: "classic"
+  rss: true
+  mathjax: true
+  social:
+    - name: GitHub
+      link: https://github.com/palnabarun
+    - name: Twitter
+      link: https://twitter.com/theonlynabarun
+    - name: LinkedIn
+      link: https://linkedin.com/in/palnabarun
+  taxonomies:
+    tags: tags
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    noClasses: true
+    style: monokai
+enableEmoji: true
