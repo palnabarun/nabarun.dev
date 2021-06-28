@@ -1,0 +1,74 @@
+---
+talks:
+- date: 2021-05-22
+  title: "First Commit with Nabarun Pal"
+  location: "FOSS United"
+  recording: https://www.youtube.com/watch?v=8S5QRajPd-k
+  event: https://fossunited.org/first-commit/3
+- date: 2021-05-20
+  title: "Kubernetes 1.21 Release Webinar"
+  location: "Cloud Native Computing Foundation"
+  slides: https://www.nabarun.in/talk/2021/release-1.21-webinar/
+  recording: https://www.cncf.io/online-programs/cncf-live-webinar-kubernetes-1-21-release/
+- date: 2021-04-15
+  title: "Kubernetes 1.21"
+  location: "Kubernetes Podcast from Google"
+  recording: https://kubernetespodcast.com/episode/146-kubernetes-1.21/
+- date: 2021-03-20
+  title: "Keynote: Contributing to Kubernetes 101"
+  slides: https://www.nabarun.in/talk/2021/kubesummit/contributing-101/
+  location: KubeSummit 2021
+- date: 2021-02-20
+  title: "Workshop: Contributing to Kubernetes 101"
+  slides: https://www.nabarun.in/talk/2021/k8sblr/contributing-101/
+  recording: https://www.youtube.com/watch?v=FgsXbHBRYIc
+  location: Kubernetes Bangalore Meetup
+- date: 2020-10-03
+  title: "Workshop: Python on Kubernetes"
+  slides: https://docs.google.com/presentation/d/1tSzi9KgDY6sXmMeClRgGA34IT2GNO8gOG5fhLb9WlvE/
+  location: PyCon India
+- date: 2020-10-03
+  title: "Lightning Talk: Kubernetes deployments must-dos"
+  slides: https://docs.google.com/presentation/d/1KA8X5kRRZiRxpwv2OiFoKw8on5Fsaqyc_CKBaIgGP6s/
+  location: PyCon India
+  recording: https://www.youtube.com/watch?v=o9NcWkhvLuA
+- date: 2020-07-18
+  title: "What's new in Kubernetes 1.19"
+  slides: https://www.nabarun.in/talk/2020/cncfwebinar
+  location: CNCF Webinar
+  recording: https://www.youtube.com/watch?v=To3noEuyynE
+- date: 2020-09-19
+  title: "The 12 Factor Snake"
+  slides: https://www.nabarun.in/talk/2020/pyconindia/12-factor-snake/
+  location: PyCon India Flames
+- date: 2020-09-10
+  title: "Getting Started contributing to Kubernetes"
+  recording: https://www.youtube.com/watch?v=wUHajE_zrDY
+  location: HasGeek AMA on Kubernetes
+- date: 2020-08-15
+  title: "Python: A language impacting every sphere of life!"
+  slides: https://nabarun.in/talk/2020/timestechies
+  recording: https://www.facebook.com/TimesTechies/recordings/2437736456525174/
+  location: "Times of India #TimesTechies Webinar"
+- date: 2020-01-15
+  title: The Kubernetes Client Universe
+  location: Bangalore Kubernetes Meetup
+  slides: https://nabarun.in/talk/2020/k8sblr
+- date: 2019-07-27
+  title: "Making Lambda simpler for data scientists"
+  slides: https://speakerdeck.com/palnabarun/making-lambda-simpler-for-data-scientists
+  location: AWS Community Day Bengaluru
+- date: 2018-04-15
+  title: "Building Microservices with firefly"
+  slides: https://nabarun.in/talk/2018/fossasiasummit
+  location: FOSSAsia Summit
+  recording: https://www.youtube.com/watch?v=8ks9EOc9FPQ
+- date: 2017-11-04
+  title: "Building Microservices with firefly"
+  slides: https://nabarun.in/talk/2017/pyconindia
+  location: PyCon India
+  recording: https://www.youtube.com/watch?v=ih4tm6jE0Pc
+- date: 2017-08-15
+  title: "Building Camera Based Intelligent Applications"
+  slides: https://speakerdeck.com/palnabarun/building-camera-based-intelligent-applications
+  location: PyData Delhi
