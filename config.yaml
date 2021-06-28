@@ -28,3 +28,11 @@ markup:
     noClasses: true
     style: monokai
 enableEmoji: true
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Speaking"
+      url: "/speaking"
+      weight: 3
