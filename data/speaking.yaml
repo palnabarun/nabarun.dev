@@ -1,14 +1,22 @@
 ---
 talks:
+- date: 2021-06-26
+  title: "Understanding Kubernetes API Internals"
+  location: "Kubernetes Community Days Bengaluru"
+  slides: https://speakerdeck.com/palnabarun/kcd-blr-understanding-the-kubernetes-api-internals
+- date: 2021-06-24
+  title: "Kubernetes New Contributor Workshop"
+  location: "Kubernetes Community Days Bengaluru"
+  slides: https://speakerdeck.com/palnabarun/kcd-blr-kubernetes-contributor-workshop
 - date: 2021-05-22
   title: "First Commit with Nabarun Pal"
   location: "FOSS United"
   recording: https://www.youtube.com/watch?v=8S5QRajPd-k
   event: https://fossunited.org/first-commit/3
 - date: 2021-05-20
-  title: "Kubernetes 1.21 Release Webinar"
-  location: "Cloud Native Computing Foundation"
-  slides: https://www.nabarun.in/talk/2021/release-1.21-webinar/
+  title: "What's new in Kubernetes 1.21"
+  location: "Cloud Native Computing Foundation Webinar"
+  slides: https://speakerdeck.com/palnabarun/whats-new-in-kubernetes-1-dot-21
   recording: https://www.cncf.io/online-programs/cncf-live-webinar-kubernetes-1-21-release/
 - date: 2021-04-15
   title: "Kubernetes 1.21"
@@ -24,12 +32,11 @@ talks:
   recording: https://www.youtube.com/watch?v=FgsXbHBRYIc
   location: Kubernetes Bangalore Meetup
 - date: 2020-10-03
-  title: "Workshop: Python on Kubernetes"
-  slides: https://docs.google.com/presentation/d/1tSzi9KgDY6sXmMeClRgGA34IT2GNO8gOG5fhLb9WlvE/
+  title: "Python on Kubernetes - A hands-on workshop"
   location: PyCon India
 - date: 2020-10-03
-  title: "Lightning Talk: Kubernetes deployments must-dos"
-  slides: https://docs.google.com/presentation/d/1KA8X5kRRZiRxpwv2OiFoKw8on5Fsaqyc_CKBaIgGP6s/
+  title: "Lightning Talk: Kubernetes Deployment Best Practices"
+  slides: https://speakerdeck.com/palnabarun/kubernetes-deployment-best-practices
   location: PyCon India
   recording: https://www.youtube.com/watch?v=o9NcWkhvLuA
 - date: 2020-07-18
