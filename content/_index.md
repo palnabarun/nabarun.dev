@@ -14,8 +14,6 @@ I majored in Materials Science along with a minor in Computer Science from [Indi
 
 My GPG fingerprint is [5766 AE48 2884 5256 325B DA6E 611D 5079 D826 B150][keybase].
 
-I do lurk out on IRC as `nabarun` on `irc.libera.chat` but the best way to reach out to me is on email `foss [at] naba [dot] run`.
-
 [pronoun]: //pronoun.is/he
 [vmware-tanzu]: //tanzu.vmware.com
 [kubernetes]: //kubernetes.io
