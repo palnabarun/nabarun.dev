@@ -2,6 +2,7 @@
 title: "Rubber Ducks: My trusted companions"
 date: 2020-08-22T23:25:06+05:30
 tags: ["abstract", "thoughts"]
+favorite: true
 ---
 
 There are times when I find myself stuck when solving any problem. This deadlock can arise due to several factors. Sometimes I need a new perspective of the problem. Sometimes I just need to go through my approach with a fresh mind.

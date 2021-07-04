@@ -2,12 +2,20 @@ baseURL: "https://nabarun.dev/"
 languageCode: "en-us"
 title: "Nabarun Pal"
 theme: "cactus"
+pygmentsUseClasses: false
+pygmentsCodefences: true
+pygmentsStyle: monokai
 params:
   description: "Open Source. Distributed Systems. Infrastructure."
   showMainSection: false
   mainSection: "posts"
   mainSectionTitle: Posts
-  colortheme: "classic"
+  favoriteSection:
+    show: true
+    title: Must Read
+    sourceType: posts
+    count: 5
+  colortheme: classic
   rss: true
   mathjax: true
   social:
@@ -23,10 +31,7 @@ params:
     - css/custom.css
 markup:
   highlight:
-    codeFences: true
-    guessSyntax: true
-    noClasses: true
-    style: emacs
+    style: monokai
 enableEmoji: true
 menu:
   main:
