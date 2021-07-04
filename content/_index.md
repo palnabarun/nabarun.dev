@@ -4,7 +4,7 @@ title: Nabarun Pal
 
 Hi! I'm Nabarun Pal ([he/him][pronoun]) and I love to tinker with software and hobbyist hardware.
 
-Currently, I work an Open Source Engineer at [VMware][vmware-tanzu] where I contribute to Kubernetes and focus on stability of the project. I have led the Kubernetes 1.22 Release Team and been with the release team since Kubernetes 1.17.
+Currently, I work as an Open Source Engineer at [VMware][vmware-tanzu] where I contribute to Kubernetes and focus on stability of the project. I have led the Kubernetes 1.22 Release Team and been with the release team since Kubernetes 1.17.
 
 You can see me lurking around several open source communities in my free time, notable [Kubernetes][kubernetes] and [Python India][pythonindia] :sunflower:. I spend a lot of time these days on my mechanical keyboards, playing video games, and reading tech articles on the web..
 
