@@ -1,5 +1,6 @@
 ---
-title: "Contact"
+title: Contact
+rss_ignore: true
 ---
 
 I can be reached at the following places.
