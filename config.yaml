@@ -26,13 +26,16 @@ markup:
     codeFences: true
     guessSyntax: true
     noClasses: true
-    style: monokai
+    style: emacs
 enableEmoji: true
 menu:
   main:
     - name: Home
       url: /
       weight: 1
+    - name: Blog
+      url: /posts
+      weight: 2
     - name: Speaking
       url: /speaking
       weight: 3
