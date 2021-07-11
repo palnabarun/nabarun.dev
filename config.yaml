@@ -15,6 +15,8 @@ params:
     title: Must Read
     sourceType: posts
     count: 5
+    allLink: true
+    allLinkText: See All
   colortheme: classic
   rss: true
   mathjax: true
