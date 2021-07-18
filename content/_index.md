@@ -6,7 +6,7 @@ Hi! I'm Nabarun Pal ([he/him][pronoun]) and I love to tinker with software and h
 
 Currently, I work as an Open Source Engineer at [VMware][vmware-tanzu] where I contribute to Kubernetes and focus on stability of the project. I have led the Kubernetes 1.22 Release Team and been with the release team since Kubernetes 1.17.
 
-You can see me lurking around several open source communities in my free time, notable [Kubernetes][kubernetes] and [Python India][pythonindia] :sunflower:. I spend a lot of time these days on my mechanical keyboards, playing video games, and reading tech articles on the web..
+You can see me lurking around several open source communities in my free time, notable [Kubernetes][kubernetes] and [Python India][pythonindia] :sunflower:. I spend a lot of time these days on my mechanical keyboards, playing video games, and reading tech articles on the web. Recently, I have developed interest in Chess, which I am learning from scratch. I also maintain a [Twitter list of Chess related accounts][t-chess].
 
 Previously, I have worked as an Infrastructure Engineer at early stage startups like [Clarisights][clarisights] and [Algoshelf/Rorodata][algoshelf] where designed and built software for data pipelines, database abstractions, infrastructure management.
 
@@ -22,3 +22,4 @@ My GPG fingerprint is [5766 AE48 2884 5256 325B DA6E 611D 5079 D826 B150][keybas
 [algoshelf]: //github.com/rorodata
 [iitr]: //iitr.ac.in
 [keybase]: //keybase.io/nabarun
+[t-chess]: https://twitter.com/i/lists/1413907332568817665
