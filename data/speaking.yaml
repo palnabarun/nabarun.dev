@@ -1,13 +1,28 @@
 ---
 talks:
-- date: 2021-06-26
+- date: 2021-10-13
+  title: "Hardening the Kubernetes Software Supply Chain Through Better Transparency"
+  location: "KubeCon + CloudNative North America 2021"
+- date: 2021-09-17
+  title: "Workshop: Making your Python applications Kubernetes Native"
+  location: "PyCon India 2021"
+- date: 2021-09-12
+  title: "What it takes to contributes to OSS"
+  location: "The Fast Tracked Programmer Mentoring Series"
+- date: 2021-09-11
+  title: "Panel: Time for Asia - Community Governance Leadership Matters"
+  location: "Open Infra Days Asia"
+- date: 2021-09-11
+  title: "Exploring the Kubernetes Clients ecosystem"
+  location: "Open Infra Days Asia"
+- date: 2021-09-12
   title: "Understanding Kubernetes API Internals"
   location: "Kubernetes Community Days Bengaluru"
-  slides: https://speakerdeck.com/palnabarun/kcd-blr-understanding-the-kubernetes-api-internals
+  # slides: https://speakerdeck.com/palnabarun/kcd-blr-understanding-the-kubernetes-api-internals
 - date: 2021-06-24
   title: "Kubernetes New Contributor Workshop"
   location: "Kubernetes Community Days Bengaluru"
-  slides: https://speakerdeck.com/palnabarun/kcd-blr-kubernetes-contributor-workshop
+  # slides: https://speakerdeck.com/palnabarun/kcd-blr-kubernetes-contributor-workshop
 - date: 2021-05-22
   title: "First Commit with Nabarun Pal"
   location: "FOSS United"
@@ -16,7 +31,7 @@ talks:
 - date: 2021-05-20
   title: "What's new in Kubernetes 1.21"
   location: "Cloud Native Computing Foundation Webinar"
-  slides: https://speakerdeck.com/palnabarun/whats-new-in-kubernetes-1-dot-21
+  # slides: https://speakerdeck.com/palnabarun/whats-new-in-kubernetes-1-dot-21
   recording: https://www.cncf.io/online-programs/cncf-live-webinar-kubernetes-1-21-release/
 - date: 2021-04-15
   title: "Kubernetes 1.21"
@@ -36,7 +51,7 @@ talks:
   location: PyCon India
 - date: 2020-10-03
   title: "Lightning Talk: Kubernetes Deployment Best Practices"
-  slides: https://speakerdeck.com/palnabarun/kubernetes-deployment-best-practices
+  # slides: https://speakerdeck.com/palnabarun/kubernetes-deployment-best-practices
   location: PyCon India
   recording: https://www.youtube.com/watch?v=o9NcWkhvLuA
 - date: 2020-07-18
@@ -63,7 +78,7 @@ talks:
   slides: https://nabarun.in/talk/2020/k8sblr
 - date: 2019-07-27
   title: "Making Lambda simpler for data scientists"
-  slides: https://speakerdeck.com/palnabarun/making-lambda-simpler-for-data-scientists
+  # slides: https://speakerdeck.com/palnabarun/making-lambda-simpler-for-data-scientists
   location: AWS Community Day Bengaluru
 - date: 2018-04-15
   title: "Building Microservices with firefly"
@@ -77,5 +92,5 @@ talks:
   recording: https://www.youtube.com/watch?v=ih4tm6jE0Pc
 - date: 2017-08-15
   title: "Building Camera Based Intelligent Applications"
-  slides: https://speakerdeck.com/palnabarun/building-camera-based-intelligent-applications
+  # slides: https://speakerdeck.com/palnabarun/building-camera-based-intelligent-applications
   location: PyData Delhi
