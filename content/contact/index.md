@@ -5,7 +5,7 @@ rss_ignore: true
 
 I can be reached at the following places.
 
-- *Email:* hey [at] naba [dot] run
+- *Email:* hey [at] nabarun [dot] dev
 - *IRC:* `nabarun` on [irc.libera.chat](//irc.libera.chat)
 - *Slack*: `palnabarun` on [slack.k8s.io](//slack.k8s.io)
 
