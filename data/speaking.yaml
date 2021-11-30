@@ -3,25 +3,32 @@ talks:
 - date: 2021-10-13
   title: "Hardening the Kubernetes Software Supply Chain Through Better Transparency"
   location: "KubeCon + CloudNative North America 2021"
+  recording: https://www.youtube.com/watch?v=W6hUXv66rRc
 - date: 2021-09-17
   title: "Workshop: Making your Python applications Kubernetes Native"
   location: "PyCon India 2021"
 - date: 2021-09-12
   title: "What it takes to contributes to OSS"
   location: "The Fast Tracked Programmer Mentoring Series"
+  recording: https://www.youtube.com/watch?v=HEhBqI_FCw4
 - date: 2021-09-11
   title: "Panel: Time for Asia - Community Governance Leadership Matters"
   location: "Open Infra Days Asia"
+  recording: https://www.youtube.com/watch?v=yvPX7y4vQ54
 - date: 2021-09-11
   title: "Exploring the Kubernetes Clients ecosystem"
   location: "Open Infra Days Asia"
+  recording: https://www.youtube.com/watch?v=pV0JuUcThuM
 - date: 2021-09-12
   title: "Understanding Kubernetes API Internals"
   location: "Kubernetes Community Days Bengaluru"
+  slides: https://bit.ly/kcdblr-api-internals-slides
+  recording: https://bit.ly/kcdblr-api-internals-video
   # slides: https://speakerdeck.com/palnabarun/kcd-blr-understanding-the-kubernetes-api-internals
 - date: 2021-06-24
   title: "Kubernetes New Contributor Workshop"
   location: "Kubernetes Community Days Bengaluru"
+  slides: https://www.nabarun.in/talk/2021/kcdblr/contributors-workshop/
   # slides: https://speakerdeck.com/palnabarun/kcd-blr-kubernetes-contributor-workshop
 - date: 2021-05-22
   title: "First Commit with Nabarun Pal"
@@ -31,6 +38,7 @@ talks:
 - date: 2021-05-20
   title: "What's new in Kubernetes 1.21"
   location: "Cloud Native Computing Foundation Webinar"
+  slides: https://www.nabarun.in/talk/2021/release-1.21-webinar/
   # slides: https://speakerdeck.com/palnabarun/whats-new-in-kubernetes-1-dot-21
   recording: https://www.cncf.io/online-programs/cncf-live-webinar-kubernetes-1-21-release/
 - date: 2021-04-15
@@ -38,8 +46,9 @@ talks:
   location: "Kubernetes Podcast from Google"
   recording: https://kubernetespodcast.com/episode/146-kubernetes-1.21/
 - date: 2021-03-20
-  title: "Keynote: Contributing to Kubernetes 101"
+  title: "Live Fireside Chat: Contributing to Kubernetes"
   slides: https://www.nabarun.in/talk/2021/kubesummit/contributing-101/
+  recording: https://developer.ibm.com/conferences/kubesummit/fireside-day2/
   location: KubeSummit 2021
 - date: 2021-02-20
   title: "Workshop: Contributing to Kubernetes 101"
