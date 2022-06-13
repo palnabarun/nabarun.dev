@@ -1,8 +1,13 @@
 ---
 talks:
+- date: 2022-05-18
+  title: Prow! Leveraging Developer-Centric CI for Your OSS Project!
+  location: "KubeCon + CloudNativeCon Europe 2022"
+  slides: https://speakerdeck.com/palnabarun/prow-leveraging-developer-centric-ci-for-your-oss-project
+  recording: https://www.youtube.com/watch?v=sdU-3cqiJmg
 - date: 2021-10-13
   title: "Hardening the Kubernetes Software Supply Chain Through Better Transparency"
-  location: "KubeCon + CloudNative North America 2021"
+  location: "KubeCon + CloudNativeCon North America 2021"
   recording: https://www.youtube.com/watch?v=W6hUXv66rRc
 - date: 2021-09-17
   title: "Workshop: Making your Python applications Kubernetes Native"
