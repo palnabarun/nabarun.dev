@@ -31,6 +31,10 @@ params:
     tags: tags
   css:
     - css/custom.css
+  analytics:
+    plausible:
+      dataDomain: nabarun.dev
+      scriptSrc: https://paa.nabarun.dev/js/plausible.js
 markup:
   highlight:
     style: monokai
