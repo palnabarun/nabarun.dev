@@ -1,5 +1,9 @@
 ---
 talks:
+- date: 2022-07-23
+  title: Leadership learnings from Kubernetes releases
+  location: IndiaFOSS 2.0
+  slides: https://speakerdeck.com/palnabarun/leadership-learnings-from-kubernetes-releases
 - date: 2022-05-18
   title: Prow! Leveraging Developer-Centric CI for Your OSS Project!
   location: "KubeCon + CloudNativeCon Europe 2022"
