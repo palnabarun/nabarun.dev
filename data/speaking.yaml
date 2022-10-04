@@ -4,6 +4,7 @@ talks:
   title: "Keynote: State of Kubernetes in 2022"
   location: Kubernetes Community Days Taiwan
   slides: https://speakerdeck.com/palnabarun/state-of-kubernetes-in-2022
+  recording: https://www.youtube.com/watch?v=8rGhfmbhZqs&t=18757s
 - date: 2022-07-23
   title: Leadership learnings from Kubernetes releases
   location: IndiaFOSS 2.0
