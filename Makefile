@@ -1,4 +1,4 @@
-.PHONY: serve build clean
+.PHONY: serve build clean download-theme
 
 DESTINATION?=site
 BASE_URL?=https://nabarun.dev
@@ -14,3 +14,6 @@ legacy-deploy:
 
 clean:
 	rm -rf $(DESTINATION)
+
+download-theme:
+	git submodule update --init --recursive
