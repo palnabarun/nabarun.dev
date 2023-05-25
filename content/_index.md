@@ -2,17 +2,17 @@
 title: Nabarun Pal
 ---
 
-Hi! I'm Nabarun Pal ([he/him][pronoun]) and I love to tinker with software and hobbyist hardware.
+Hi there! I'm Nabarun Pal ([he/him][pronoun]) a passionate software enthusiast with a keen interest in tinkering with both software and hobbyist hardware.
 
-Currently, I work as an Open Source Engineer at [VMware][vmware-tanzu] where I contribute to Kubernetes and focus on stability of the project. I have led the Kubernetes 1.22 Release Team and been with the release team since Kubernetes 1.17.
+Currently, I work as a *Senior Member of Technical Staff at [VMware][vmware-tanzu]*, where I contribute to Kubernetes-related products and services. My primary focus is ensuring the delivery of high-quality software by eliminating product problems at their source. By doing so, I aim to create value for VMware Tanzu customers and the wider community. My role involves assisting internal product teams and ensuring their work related to Kubernetes is not impeded.
 
-You can see me lurking around several open source communities in my free time, notable [Kubernetes][kubernetes] and [Python India][pythonindia] :sunflower:. I spend a lot of time these days on my mechanical keyboards, playing video games, and reading tech articles on the web. Recently, I have developed interest in Chess, which I am learning from scratch. I also maintain a [Twitter list of Chess related accounts][t-chess].
+I'm honored to be **an elected member of the Kubernetes Steering Committee** and serve as the **Chair of the Kubernetes Special Interest Group Contributor Experience**. Over the past four years, I have actively participated in the Kubernetes community, wearing multiple hats to contribute to the project's stability and sustainability. As a **Kubernetes Release Manager**, I have been involved in releases since Kubernetes 1.17, and I **led the Kubernetes 1.22 Release Team**. I've been fortunate to receive recognition for my contributions, with my work even being **featured in national newspapers** in India.
 
-Previously, I have worked as an Infrastructure Engineer at early stage startups like [Clarisights][clarisights] and [Algoshelf/Rorodata][algoshelf] where designed and built software for data pipelines, database abstractions, infrastructure management.
+In my free time, you can find me actively engaged in various open-source communities, particularly *[Kubernetes][kubernetes]* and *[Python India][pythonindia]*. I dedicate my off-work hours to pursuits like *developing software tooling for personal use*, *contributing to new open source projects*, *exploring mechanical keyboards*, and *indulging in the art of brewing coffee*. Lately, I've developed an interest in Chess and I'm learning the game from scratch. To further my engagement with the Chess community, I curate a [Twitter list of Chess related accounts][t-chess]. Additionally, I enjoy [speaking at conferences][speaking] on topics related to technology and open source.
 
-I majored in Materials Science along with a minor in Computer Science from [Indian Institute of Technology Roorkee][iitr] and I used to hack around electronics and robotics during my time there apart from trying to discover the Philosopher's Stone :rolling_on_the_floor_laughing:.
+Prior to my current role, I gained valuable experience working with early-stage startups such as [Clarisights][clarisights] and [Algoshelf/Rorodata][algoshelf]. During my tenure there, I focused on crafting software solutions for data pipelines, database abstractions, and infrastructure management.
 
-My GPG fingerprint is [5766 AE48 2884 5256 325B DA6E 611D 5079 D826 B150][keybase].
+I hold a major in Materials Science, along with a minor in Computer Science, from the [Indian Institute of Technology Roorkee][iitr]. Throughout my time there, I not only delved into materials science orcomputer science but also explored electronics, robotics, and even attempted to uncover the secrets of the Philosopher's Stone.
 
 [pronoun]: //pronoun.is/he
 [vmware-tanzu]: //tanzu.vmware.com
@@ -21,5 +21,5 @@ My GPG fingerprint is [5766 AE48 2884 5256 325B DA6E 611D 5079 D826 B150][keybas
 [clarisights]: //clarisights.com
 [algoshelf]: //github.com/rorodata
 [iitr]: //iitr.ac.in
-[keybase]: //keybase.io/nabarun
 [t-chess]: https://twitter.com/i/lists/1413907332568817665
+[speaking]: /speaking
