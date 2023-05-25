@@ -1,12 +1,12 @@
 ---
 talks:
-- date: 2023-04-20
+- date: 2023-06-02
   title: "[Upcoming] State of Kubernetes and CNCF: A path to a sustainable and secure future"
   location: "Kubernetes Community Days Bengaluru 2023"
 - date: 2023-04-20
   title: "Wildfires, Firefighters and Sustainability Learnings from Mitigating Kubernetes Fires in the Community"
   location: "KubeCon + CloudNativeCon Europe 2023"
-  deck: "https://static.sched.com/hosted_files/kccnceu2023/7c/KubeCon%20%2B%20CloudNativeCon%20EU%2023%20-%20Wildfires%2C%20Firefighters%20and%20Sustainability%20-%20Learnings%20from%20Mitigating%20Kubernetes%20Fires%20in%20the%20Community-2.pdf"
+  deck: "https://speakerdeck.com/palnabarun/wildfires-firefighters-and-sustainability-learnings-from-mitigating-kubernetes-fires-in-the-community"
   recording: https://www.youtube.com/watch?v=mcBp63qoXpE
 - date: 2023-04-20
   title: Kubernetes Project Update on Keynote stage on behalf of Steering Committee
@@ -14,7 +14,7 @@ talks:
 - date: 2023-04-19
   title: "What does the Kubernetes Steering Committee Steer?"
   location: "KubeCon + CloudNativeCon Europe 2023"
-  deck: "https://static.sched.com/hosted_files/kccnceu2023/34/KubeCon%20EU%202023%20-%20What%20does%20the%20Steering%20Committee%20Steer_.pdf"
+  deck: "https://speakerdeck.com/palnabarun/what-does-the-kubernetes-steering-committee-steer"
   recording: https://www.youtube.com/watch?v=d3xQw_JE6So
 - date: 2023-03-25
   title: "Lightning: Kubernetes registry changes"
