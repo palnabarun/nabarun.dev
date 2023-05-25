@@ -10,13 +10,13 @@ params:
   showMainSection: false
   mainSection: "posts"
   mainSectionTitle: Posts
-  favoriteSection:
-    show: true
-    title: Must Read
-    sourceType: posts
-    count: 5
-    allLink: true
-    allLinkText: See All
+  # favoriteSection:
+  #   show: true
+  #   title: Must Read
+  #   sourceType: posts
+  #   count: 5
+  #   allLink: true
+  #   allLinkText: See All
   colortheme: classic
   rss: true
   mathjax: true
