@@ -1,5 +1,37 @@
 ---
 talks:
+- date: 2023-04-20
+  title: "[Upcoming] State of Kubernetes and CNCF: A path to a sustainable and secure future"
+  location: "Kubernetes Community Days Bengaluru 2023"
+- date: 2023-04-20
+  title: "Wildfires, Firefighters and Sustainability Learnings from Mitigating Kubernetes Fires in the Community"
+  location: "KubeCon + CloudNativeCon Europe 2023"
+  deck: "https://static.sched.com/hosted_files/kccnceu2023/7c/KubeCon%20%2B%20CloudNativeCon%20EU%2023%20-%20Wildfires%2C%20Firefighters%20and%20Sustainability%20-%20Learnings%20from%20Mitigating%20Kubernetes%20Fires%20in%20the%20Community-2.pdf"
+  recording: https://www.youtube.com/watch?v=mcBp63qoXpE
+- date: 2023-04-20
+  title: Kubernetes Project Update on Keynote stage on behalf of Steering Committee
+  location: "KubeCon + CloudNativeCon Europe 2023"
+- date: 2023-04-19
+  title: "What does the Kubernetes Steering Committee Steer?"
+  location: "KubeCon + CloudNativeCon Europe 2023"
+  deck: "https://static.sched.com/hosted_files/kccnceu2023/34/KubeCon%20EU%202023%20-%20What%20does%20the%20Steering%20Committee%20Steer_.pdf"
+  recording: https://www.youtube.com/watch?v=d3xQw_JE6So
+- date: 2023-03-25
+  title: "Lightning: Kubernetes registry changes"
+  location: Bangalore Kubernetes Meetup
+- date: 2022-12-11
+  title: "Signing Python Packages using sigstore"
+  location: PyConf Hyderabad 2022
+- date: 2022-11-08
+  title: "Kubernetes Release: Song and Dance of People and Processes. What can large OSS projects learn from it?"
+  location: Linux Foundation Member Summit 2022
+- date: 2022-10-27
+  title: "SIG Contributor Experience Deep Dive"
+  location: KubeCon + CloudNativeCon North America 2022
+- date: 2022-09-17
+  title: "Package signing using sigstore"
+  location: BangPypers
+  slides: https://speakerdeck.com/palnabarun/package-signing-using-sigstore
 - date: 2022-07-30
   title: "Keynote: State of Kubernetes in 2022"
   location: Kubernetes Community Days Taiwan
