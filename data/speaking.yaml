@@ -1,23 +1,25 @@
 ---
 talks:
 - date: 2023-06-02
-  title: "[Upcoming] State of Kubernetes and CNCF: A path to a sustainable and secure future"
-  location: "Kubernetes Community Days Bengaluru 2023"
+  title: ":star:Keynote:star: State of Kubernetes and CNCF: A path to a sustainable and secure future"
+  location: "Kubernetes Community Days Bengaluru"
+  link: https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents-kubernetes-community-days-bengaluru-2023-in-person/
+  deck: "https://speakerdeck.com/palnabarun/state-of-kubernetes-and-cncf-a-path-to-a-sustainable-and-secure-future"
 - date: 2023-04-20
   title: "Wildfires, Firefighters and Sustainability Learnings from Mitigating Kubernetes Fires in the Community"
-  location: "KubeCon + CloudNativeCon Europe 2023"
+  location: "KubeCon + CloudNativeCon Europe"
   deck: "https://speakerdeck.com/palnabarun/wildfires-firefighters-and-sustainability-learnings-from-mitigating-kubernetes-fires-in-the-community"
   recording: https://www.youtube.com/watch?v=mcBp63qoXpE
 - date: 2023-04-20
-  title: Kubernetes Project Update on Keynote stage on behalf of Steering Committee
-  location: "KubeCon + CloudNativeCon Europe 2023"
+  title: "Kubernetes Project Update on :star:Keynote:star: stage on behalf of Steering Committee"
+  location: "KubeCon + CloudNativeCon Europe"
 - date: 2023-04-19
   title: "What does the Kubernetes Steering Committee Steer?"
-  location: "KubeCon + CloudNativeCon Europe 2023"
+  location: "KubeCon + CloudNativeCon Europe"
   deck: "https://speakerdeck.com/palnabarun/what-does-the-kubernetes-steering-committee-steer"
   recording: https://www.youtube.com/watch?v=d3xQw_JE6So
 - date: 2023-03-25
-  title: "Lightning: Kubernetes registry changes"
+  title: ":zap:Lightning Talk:zap: Kubernetes registry changes"
   location: Bangalore Kubernetes Meetup
 - date: 2022-12-11
   title: "Signing Python Packages using sigstore"
@@ -33,7 +35,7 @@ talks:
   location: BangPypers
   slides: https://speakerdeck.com/palnabarun/package-signing-using-sigstore
 - date: 2022-07-30
-  title: "Keynote: State of Kubernetes in 2022"
+  title: ":star:Keynote:star: State of Kubernetes in 2022"
   location: Kubernetes Community Days Taiwan
   slides: https://speakerdeck.com/palnabarun/state-of-kubernetes-in-2022
   recording: https://www.youtube.com/watch?v=8rGhfmbhZqs&t=18757s
@@ -103,7 +105,7 @@ talks:
   title: "Python on Kubernetes - A hands-on workshop"
   location: PyCon India
 - date: 2020-10-03
-  title: "Lightning Talk: Kubernetes Deployment Best Practices"
+  title: ":zap:Lightning Talk:zap: Kubernetes Deployment Best Practices"
   slides: https://speakerdeck.com/palnabarun/kubernetes-deployment-best-practices
   location: PyCon India
   recording: https://www.youtube.com/watch?v=o9NcWkhvLuA
