@@ -10,6 +10,7 @@ talks:
   location: "KubeCon + CloudNativeCon Europe"
   deck: "https://speakerdeck.com/palnabarun/wildfires-firefighters-and-sustainability-learnings-from-mitigating-kubernetes-fires-in-the-community"
   recording: https://www.youtube.com/watch?v=mcBp63qoXpE
+  link: https://sched.co/1HyeH
 - date: 2023-04-20
   title: "Kubernetes Project Update on :star:Keynote:star: stage on behalf of Steering Committee"
   location: "KubeCon + CloudNativeCon Europe"
@@ -18,6 +19,7 @@ talks:
   location: "KubeCon + CloudNativeCon Europe"
   deck: "https://speakerdeck.com/palnabarun/what-does-the-kubernetes-steering-committee-steer"
   recording: https://www.youtube.com/watch?v=d3xQw_JE6So
+  link: https://sched.co/1HyUq
 - date: 2023-03-25
   title: ":zap:Lightning Talk:zap: Kubernetes registry changes"
   location: Bangalore Kubernetes Meetup
@@ -27,9 +29,17 @@ talks:
 - date: 2022-11-08
   title: "Kubernetes Release: Song and Dance of People and Processes. What can large OSS projects learn from it?"
   location: Linux Foundation Member Summit 2022
+  link: https://sched.co/1BKDX
+- date: 2022-10-28
+  title: "AMA Kubernetes Steering Committee"
+  location: KubeCon + CloudNativeCon North America 2022
+  recording: https://www.youtube.com/watch?v=AqpZE-mpz5w
+  link: https://sched.co/182Pc
 - date: 2022-10-27
   title: "SIG Contributor Experience Deep Dive"
   location: KubeCon + CloudNativeCon North America 2022
+  recording: https://www.youtube.com/watch?v=C-k_h3vzWxE
+  link: https://sched.co/182Nm
 - date: 2022-09-17
   title: "Package signing using sigstore"
   location: BangPypers
@@ -48,6 +58,7 @@ talks:
   location: "KubeCon + CloudNativeCon Europe 2022"
   slides: https://speakerdeck.com/palnabarun/prow-leveraging-developer-centric-ci-for-your-oss-project
   recording: https://www.youtube.com/watch?v=sdU-3cqiJmg
+  link: https://sched.co/ytn6
 - date: 2021-10-13
   title: "Hardening the Kubernetes Software Supply Chain Through Better Transparency"
   location: "KubeCon + CloudNativeCon North America 2021"
