@@ -93,11 +93,9 @@
                         <div class="talk-date">{{ dateFormat "Jan 2006" .date }}</div>
                     </div>
                     <div class="talk-location">
-                        (at)
+                        (at) {{ .location }}
                         {{ if .link }}
-                            <a href="{{ .link }}">{{ .location }}</a>
-                        {{ else }}
-                            {{ .location }}
+                            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none">&#128279;</a>
                         {{ end }}
                     </div>
                     <div class="talk-metadata">
