@@ -4,9 +4,9 @@ title: Nabarun Pal
 
 Hi there! I'm Nabarun Pal ([he/him][pronoun]) a passionate software enthusiast with a keen interest in tinkering with both software and hobbyist hardware.
 
-Currently, I work as a *Senior Member of Technical Staff at [VMware][vmware-tanzu]*, where I contribute to Kubernetes-related products and services. My primary focus is ensuring the delivery of high-quality software by eliminating product problems at their source. By doing so, I aim to create value for VMware Tanzu customers and the wider community. My role involves assisting internal product teams and ensuring their work related to Kubernetes is not impeded.
+Currently, I work as a *Staff Software Engineer at [VMware][vmware-tanzu]*, where I lead a few functions of the multi-tenant control plane powering VMware Tanzu SaaS products. My primary focus is to ensure safeguard API quality, scale out the control plane, and own any area related to open source projects that are used, such as [KCP][kcp].
 
-I'm honored to be **an elected member of the Kubernetes Steering Committee** and serve as the **Chair of the Kubernetes Special Interest Group Contributor Experience**. Over the past four years, I have actively participated in the Kubernetes community, wearing multiple hats to contribute to the project's stability and sustainability. As a **Kubernetes Release Manager**, I have been involved in releases since Kubernetes 1.17, and I **led the Kubernetes 1.22 Release Team**. I've been fortunate to receive recognition for my contributions, with my work even being **featured in national newspapers** in India.
+I'm honored to be **an elected member of the Kubernetes Steering Committee** and serve as the **Chair of the Kubernetes Special Interest Group Contributor Experience**. Over the past years, I have actively participated in the Kubernetes community, wearing multiple hats to contribute to the project's stability and sustainability. As a **Kubernetes Release Manager**, I have been involved in releases since Kubernetes 1.17, and I **led the Kubernetes 1.22 Release Team**. I've been fortunate to receive recognition for my contributions, with my work even being **featured in national newspapers** in India.
 
 In my free time, you can find me actively engaged in various open-source communities, particularly *[Kubernetes][kubernetes]* and *[Python India][pythonindia]*. I dedicate my off-work hours to pursuits like *developing software tooling for personal use*, *contributing to new open source projects*, *exploring mechanical keyboards*, and *indulging in the art of brewing coffee*. Lately, I've developed an interest in Chess and I'm learning the game from scratch. To further my engagement with the Chess community, I curate a [Twitter list of Chess related accounts][t-chess]. Additionally, I enjoy [speaking at conferences][speaking] on topics related to technology and open source.
 
@@ -23,3 +23,4 @@ I hold a major in Materials Science, along with a minor in Computer Science, fro
 [iitr]: //iitr.ac.in
 [t-chess]: https://twitter.com/i/lists/1413907332568817665
 [speaking]: /speaking
+[kcp]: //kcp.io
