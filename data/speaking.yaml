@@ -1,14 +1,34 @@
 ---
 talks:
+- date: 2023-12-08
+  title: "[Upcoming] Kubernetes - The Universal Control Plane"
+  location: KubeDay India 2023
+- date: 2023-11-09
+  title: "Learnings from Sustainably Steering the Kubernetes Project"
+  location: "KubeCon + CloudNativeCon North America 2023"
+  slides: https://speakerdeck.com/palnabarun/learnings-from-sustainably-steering-the-kubernetes-project
+  link: https://sched.co/1R2vZ
+- date: 2023-11-09
+  title: "The Eight Fallacies of Distributed Cloud Native Communities"
+  location: "KubeCon + CloudNativeCon North America 2023"
+  slides: https://speakerdeck.com/palnabarun/the-eight-fallacies-of-distributed-cloud-native-communities
+  link: https://sched.co/1R2tv
+- date: 2023-11-08
+  title: "Kubernetes Project Update on :star:Keynote:star: stage on behalf of Steering Committee"
+  location: "KubeCon + CloudNativeCon North America 2023"
+- date: 2023-11-06
+  title: "Kubernetes Steering Committee Ask Us Anything"
+  location: "Kubernetes Contributor Summit Chicago 2023"
+  link: https://sched.co/1Sp9K
 - date: 2023-06-02
   title: ":star:Keynote:star: State of Kubernetes and CNCF: A path to a sustainable and secure future"
   location: "Kubernetes Community Days Bengaluru"
   link: https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents-kubernetes-community-days-bengaluru-2023-in-person/
-  deck: "https://speakerdeck.com/palnabarun/state-of-kubernetes-and-cncf-a-path-to-a-sustainable-and-secure-future"
+  slides: "https://speakerdeck.com/palnabarun/state-of-kubernetes-and-cncf-a-path-to-a-sustainable-and-secure-future"
 - date: 2023-04-20
   title: "Wildfires, Firefighters and Sustainability Learnings from Mitigating Kubernetes Fires in the Community"
   location: "KubeCon + CloudNativeCon Europe"
-  deck: "https://speakerdeck.com/palnabarun/wildfires-firefighters-and-sustainability-learnings-from-mitigating-kubernetes-fires-in-the-community"
+  slides: "https://speakerdeck.com/palnabarun/wildfires-firefighters-and-sustainability-learnings-from-mitigating-kubernetes-fires-in-the-community"
   recording: https://www.youtube.com/watch?v=mcBp63qoXpE
   link: https://sched.co/1HyeH
 - date: 2023-04-20
@@ -17,9 +37,13 @@ talks:
 - date: 2023-04-19
   title: "What does the Kubernetes Steering Committee Steer?"
   location: "KubeCon + CloudNativeCon Europe"
-  deck: "https://speakerdeck.com/palnabarun/what-does-the-kubernetes-steering-committee-steer"
+  slides: "https://speakerdeck.com/palnabarun/what-does-the-kubernetes-steering-committee-steer"
   recording: https://www.youtube.com/watch?v=d3xQw_JE6So
   link: https://sched.co/1HyUq
+- date: 2023-04-18
+  title: "AMA Kubernetes Steering Committee"
+  location: "Kubernetes Contributor Summit Amsterdam 2023"
+  link: https://sched.co/1LXAm
 - date: 2023-03-25
   title: ":zap:Lightning Talk:zap: Kubernetes registry changes"
   location: Bangalore Kubernetes Meetup
