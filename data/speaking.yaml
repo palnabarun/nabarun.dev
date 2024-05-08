@@ -1,8 +1,17 @@
 ---
 talks:
+- date: 2024-03-21
+  title: "Contributing to Kubernetes in Its Second Decade - SIG ContribEx Style!"
+  location: "KubeCon + CloudNativeCon Europe 2024"
+  link: https://sched.co/1Yhgm
+- date: 2024-03-20
+  title: "Kubernetes Steering Committee: Genesis, Bootstrap, Now & Future"
+  location: "KubeCon + CloudNativeCon Europe 2024"
+  link: https://sched.co/1YhgX
 - date: 2023-12-08
-  title: "[Upcoming] Kubernetes - The Universal Control Plane"
+  title: "Kubernetes - The Universal Control Plane"
   location: KubeDay India 2023
+  link: https://sched.co/1T73u
 - date: 2023-11-09
   title: "Learnings from Sustainably Steering the Kubernetes Project"
   location: "KubeCon + CloudNativeCon North America 2023"
