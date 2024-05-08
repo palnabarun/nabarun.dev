@@ -20,7 +20,7 @@ With the role handbooks, I got to know of the [Release Team Shadow Program][shad
 
 Turns out it requires a **marginal amount of effort**, **bucket loads of curiosity** and **time commitment** to apply for the Shadow Program. The Release Team at the start of every release cycle pushes out a public form for inviting applications to the shadow roles.
 
-{{< tweet 1174811618984620032 >}}
+{{< tweet user="theonlynabarun" id="1174811618984620032" >}}
 
 ## Taking the plunge
 
@@ -46,7 +46,7 @@ The role involved understanding each outstanding KEP, pinging respective OWNERS 
 
 We released `Kubernetes 1.17 : The Chillest Release` (Yes! That is the release theme :smiley:) after all the efforts of the [1.17 release team][1.17-team]. The last release of the year is usually the most chilled out and is a bit short due to the December vacation.
 
-{{< tweet 1204410714380742656 >}}
+{{< tweet user="theonlynabarun" id="1204410714380742656" >}}
 
 The whole team became akin to a family for me spending all that effort into ensuring a smooth release. We, the Enhancements Team ([Bob][bob], [Jeremy][jeremy], [Anna][anna], [Kristin][kristin]), even got together at KubeCon San Diego to meet up physically.
 
@@ -58,7 +58,7 @@ After Kubernetes 1.17, I signed up again for the Kubernetes 1.18 team for Enhanc
 
 This release cycle was mostly the same for me other than I was a bit more involved than the last time having served on the team previously. And, after all the hard work of the [1.18 release team][1.18-team], we were treated to a **quarky** Kubernetes 1.18 :star:.
 
-{{< tweet 1242924529636106240 >}}
+{{< tweet user="theonlynabarun" id="1242924529636106240" >}}
 
 
 ## Graduating to be the Enhancements Lead :rocket:
@@ -73,7 +73,7 @@ The shadows that I selected for the Enhancements Team spanned 12 and a half hour
 
 After those tense & tough 5 months firefighting a lot of issues, the [1.19 release team][1.19-team] released `Kubernetes 1.19: Accentuate the Paw-sitive`. You can read about the release on the [Kubernetes Blog][1.19-blog] and the upcoming [Kubernetes 1.19 Release Webinar][1.19-webinar] where I will be presenting along with the 1.19 Release Lead [Taylor][taylor] and the 1.19 Communications Lead [Max][max].
 
-{{< tweet 1298704500648054784 >}}
+{{< tweet user="theonlynabarun" id="1298704500648054784" >}}
 
 With that, my watch ended over the Release Enhancements Team and it was time to hand over the baton to next lead. :peace:
 
@@ -92,7 +92,7 @@ The last release of the year, Kubernetes 1.20, is going to be published in Decem
 
 The applications will be open until _End of Day Friday, September 11, 2020 Pacific Time_.
 
-{{< tweet 1300478913961889792 >}}
+{{< tweet user="theonlynabarun" id="1300478913961889792" >}}
 
 
 ## Still in doubt? :mag:
