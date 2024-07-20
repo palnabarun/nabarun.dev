@@ -1,5 +1,14 @@
 ---
 talks:
+- date: 2024-06-12
+  title: "Keeping Social Engineering Attacks Away from OSS Communities "
+  location: "GitHub Consterllation 2024"
+  link: https://githubconstellation.com/sessions
+  slides: https://speakerdeck.com/palnabarun/keeping-social-engineering-attacks-away-from-oss-communities
+- date: 2024-06-11
+  title: "Leading Kubernetes into its Second Decade"
+  location: "Kubernetes Podcast from Google"
+  recording: https://kubernetespodcast.com/episode/228-new-leads/
 - date: 2024-03-21
   title: "Contributing to Kubernetes in Its Second Decade - SIG ContribEx Style!"
   location: "KubeCon + CloudNativeCon Europe 2024"
@@ -11,6 +20,7 @@ talks:
 - date: 2023-12-08
   title: "Kubernetes - The Universal Control Plane"
   location: KubeDay India 2023
+  slides: https://speakerdeck.com/palnabarun/kubernetes-the-universal-control-plane
   link: https://sched.co/1T73u
 - date: 2023-11-09
   title: "Learnings from Sustainably Steering the Kubernetes Project"
