@@ -2,7 +2,7 @@
 title: Setup
 ---
 
-TODO: Photo
+![setup](/images/setup.jpeg)
 
 My main workstation are a Macbook Pro 16" for my Open Source and Personal work and a Macbook Pro 14" for my dayjob related activities. Both are based on the M1 Pro chipset from 2021. I also have [a PC at home which I almost solely use for gaming](./gaming).
 

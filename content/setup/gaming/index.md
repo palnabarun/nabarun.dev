@@ -2,6 +2,8 @@
 title: Gaming Setup
 ---
 
+![setup](/images/setup.jpeg)
+
 This is the hardware configuration of my gaming/home workstation setup. (Note: Some are affiliate links)
 
 | Category         | Details                                                                                                                  |
