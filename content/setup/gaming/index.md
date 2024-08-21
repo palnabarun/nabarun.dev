@@ -21,7 +21,7 @@ This is the hardware configuration of my gaming/home workstation setup. (Note: S
 | Speakers         | [Samsung HW-C45E/XL 2.1](https://amzn.to/3WXQvnk)                                                                        |
 | Display          | [LG 27UL550 27" 4K](https://amzn.to/3MjX0fi)                                                                             |
 | Display          | Dell U2720Q 27" 4K (This one is discontinued. The newer variant is [U2723QE](https://amzn.to/3YQwbH9))                   |
-| Keyboard         | Monsgeek M1 / ePBT Kavala / Boba U4T                                                                                     |
+| Keyboard         | Monsgeek M1 / ePBT Kavala / Boba U4T. Read more on the [keyboards page](/setup/keyboards).                               |
 | Dock             | [Dell D6000](https://www.tpstech.in/products/dell-universal-usb-c-docking-station-supports-upto-three-4k-displays-d6000) |
 | Headphones       | [Sony WH-1000XM5](https://amzn.to/3yVKAqY)                                                                               |
 | Mouse            | [Logitech MX Master 3](https://amzn.to/3SZtKhU)                                                                          |
