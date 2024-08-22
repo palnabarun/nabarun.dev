@@ -1,5 +1,7 @@
 ---
 title: Setup
+params:
+    disablePostList: true
 ---
 
 ![setup](/images/setup.jpeg)
