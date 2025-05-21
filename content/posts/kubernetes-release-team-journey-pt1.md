@@ -20,8 +20,6 @@ With the role handbooks, I got to know of the [Release Team Shadow Program][shad
 
 Turns out it requires a **marginal amount of effort**, **bucket loads of curiosity** and **time commitment** to apply for the Shadow Program. The Release Team at the start of every release cycle pushes out a public form for inviting applications to the shadow roles.
 
-<!-- {{< x user="theonlynabarun" id="1174811618984620032" >}} -->
-
 ## Taking the plunge
 
 I took the initiative and filled the form with my interests and thoughts. And few days later I, along with other shadows, was welcomed by [MrBobbyTables][bob] to my first involvement with the Release Team. :tada:
@@ -46,8 +44,6 @@ The role involved understanding each outstanding KEP, pinging respective OWNERS 
 
 We released `Kubernetes 1.17 : The Chillest Release` (Yes! That is the release theme :smiley:) after all the efforts of the [1.17 release team][1.17-team]. The last release of the year is usually the most chilled out and is a bit short due to the December vacation.
 
-<!-- {{< x user="theonlynabarun" id="1204410714380742656" >}} -->
-
 The whole team became akin to a family for me spending all that effort into ensuring a smooth release. We, the Enhancements Team ([Bob][bob], [Jeremy][jeremy], [Anna][anna], [Kristin][kristin]), even got together at KubeCon San Diego to meet up physically.
 
 ![1.17-rt-meet](/images/rt/1.17-rt-meet.jpg)
@@ -57,9 +53,6 @@ The whole team became akin to a family for me spending all that effort into ensu
 After Kubernetes 1.17, I signed up again for the Kubernetes 1.18 team for Enhancements to get more exposure to the KEP landscape. This time [Jeremy](https://twitter.com/jrrickard) was leading the Enhancements Team. It was fun again to work with the enhancements team ([Jeremy][jeremy], [Kirsten][kirsten], [Heba][heba], [John][john]), all the same just this time there were new shadows along with me compared to last time.
 
 This release cycle was mostly the same for me other than I was a bit more involved than the last time having served on the team previously. And, after all the hard work of the [1.18 release team][1.18-team], we were treated to a **quarky** Kubernetes 1.18 :star:.
-
-<!-- {{< x user="theonlynabarun" id="1242924529636106240" >}} -->
-
 
 ## Graduating to be the Enhancements Lead :rocket:
 
@@ -72,8 +65,6 @@ This release cycle eventually became special in many ways. We were hit by a dead
 The shadows that I selected for the Enhancements Team spanned 12 and a half hours of timezone and created an amazing round the earth coverage for the team. This meant no team member had to toil in their odd times of the day. I take this opportunity to **thank again all the enhancements shadows - [Kirsten][kirsten], [Harsha][harsha], [Miroslaw][miroslaw] and [John][john] for their efforts even in such hard times**.
 
 After those tense & tough 5 months firefighting a lot of issues, the [1.19 release team][1.19-team] released `Kubernetes 1.19: Accentuate the Paw-sitive`. You can read about the release on the [Kubernetes Blog][1.19-blog] and the upcoming [Kubernetes 1.19 Release Webinar][1.19-webinar] where I will be presenting along with the 1.19 Release Lead [Taylor][taylor] and the 1.19 Communications Lead [Max][max].
-
-<!-- {{< x user="theonlynabarun" id="1298704500648054784" >}} -->
 
 With that, my watch ended over the Release Enhancements Team and it was time to hand over the baton to next lead. :peace:
 
@@ -91,9 +82,6 @@ Along with that it was time for me to graduate to my next role. I look forward t
 The last release of the year, Kubernetes 1.20, is going to be published in December. The Release Team is looking out for folks for the shadow roles. All you need to do is go ahead, read the [role handbooks][rt-handbooks], figure out which role interests you the best and then fill the [form][rt-1.20-form]. We ask every prospect to fill the form because we want to know if the release team would be a good fit for you and to find the right role for you in the Release Team.
 
 The applications will be open until _End of Day Friday, September 11, 2020 Pacific Time_.
-
-<!-- {{< x user="theonlynabarun" id="1300478913961889792" >}} -->
-
 
 ## Still in doubt? :mag:
 
