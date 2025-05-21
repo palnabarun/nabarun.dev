@@ -89,14 +89,15 @@
                 {{ if eq $year (dateFormat "2006" .date) }}
                 <div class="talk">
                     <div class="talk-header">
+                        {{ if .link }}
+                        <div class="talk-title"><a href="{{ .link }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none">{{ .title | emojify }}</a></div>
+                        {{ else }}
                         <div class="talk-title">{{ .title | emojify }}</div>
+                        {{ end }}
                         <div class="talk-date">{{ dateFormat "Jan 2006" .date }}</div>
                     </div>
                     <div class="talk-location">
                         (at) {{ .location }}
-                        {{ if .link }}
-                            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none">&#128279;</a>
-                        {{ end }}
                     </div>
                     <div class="talk-metadata">
                         {{ if .slides }}
