@@ -1,14 +1,42 @@
 ---
 talks:
+- date: 2025-04-04
+  title: "Contributing To Kubernetes in Its Second Decade - How ContribEx Enhances the Journey!"
+  location: "KubeCon + CloudNativeCon Europe 2024"
+  link: "https://sched.co/1td1K"
+- date: 2025-04-03
+  title: "Extending Kubernetes Resource Model (KRM) Beyond Kubernetes Workloads"
+  location: "KubeCon + CloudNativeCon Europe 2024"
+  link: "https://sched.co/1txAB"
+- date: 2025-04-02
+  title: "Tutorial: Exploring Multi-Tenant Kubernetes APIs and Controllers With Kcp"
+  location: "KubeCon + CloudNativeCon Europe 2024"
+  link: "https://sched.co/1tx6b"
+- date: 2024-12-12
+  title: "Contributing to Kubernetes in Its Second Decade - How ContribEx Enhances the Journey!"
+  location: "KubeCon + CloudNativeCon India 2024"
+  link: https://sched.co/1mpDm
+- date: 2024-12-12
+  title: ":star:Keynote:star: Unity in Diversity: Making Cloud Native Ubiquitous"
+  location: "KubeCon + CloudNativeCon India 2024"
+  link: https://sched.co/1r7T6
+- date: 2024-11-15
+  title: "Contributing to Kubernetes in Its Second Decade - SIG ContribEx Style!"
+  location: "KubeCon + CloudNativeCon North America 2024"
+  link: https://sched.co/1hoy3
+- date: 2024-11-13
+  title: "Beyond 'Can You Mentor Me?' - Crafting the Contribution Ladder"
+  location: "KubeCon + CloudNativeCon North America 2024"
+  link: https://sched.co/1i7kz
 - date: 2024-06-12
   title: "Keeping Social Engineering Attacks Away from OSS Communities "
-  location: "GitHub Consterllation 2024"
+  location: "GitHub Constellation 2024"
   link: https://githubconstellation.com/sessions
   slides: https://speakerdeck.com/palnabarun/keeping-social-engineering-attacks-away-from-oss-communities
 - date: 2024-06-11
   title: "Leading Kubernetes into its Second Decade"
   location: "Kubernetes Podcast from Google"
-  recording: https://kubernetespodcast.com/episode/228-new-leads/
+  link: https://kubernetespodcast.com/episode/228-new-leads/
 - date: 2024-03-21
   title: "Contributing to Kubernetes in Its Second Decade - SIG ContribEx Style!"
   location: "KubeCon + CloudNativeCon Europe 2024"
