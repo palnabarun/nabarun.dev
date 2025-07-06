@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="content" itemprop="articleBody">
+    {{ .Content }}
+
+    <div class="timeline">
+      {{ range .Site.Data.timeline.events }}
+      <div class="timeline-entry">
+        <div class="timeline-icon">
+          <img src="{{ .icon }}" alt="{{ .title }}" />
+        </div>
+        <div class="timeline-date">{{ dateFormat "January 2006" .date }}</div>
+        <div class="timeline-title">{{ .title | markdownify }}</div>
+        <!-- <div class="timeline-org">{{ .organization }}</div> -->
+        <div class="timeline-description">
+          {{ .description | markdownify }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{ end }}

@@ -10,3 +10,79 @@
   filter: none;
   -webkit-filter: none;
 }
+
+/* Timeline Styles */
+.timeline {
+  position: relative;
+  padding-top: 0.5em;
+  padding-bottom: 1em;
+  margin-top: 2em;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 0.225em;
+  background-color: #cc2a41;
+  top: 0;
+  bottom: 0;
+  left: 1.875em;
+  z-index: 1;
+  border-radius: 1em;
+}
+
+.timeline-entry {
+  margin-left: 4em;
+  margin-bottom: 2em;
+  position: relative;
+}
+
+.timeline-icon {
+  position: absolute;
+  top: 0.7em;
+  left: -3.5em;
+  z-index: 2;
+  border-radius: 50%;
+  height: 3em;
+  width: 3em;
+  border: 0.2em solid #cc2a41;
+  background-color: #fafafa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.timeline-icon img {
+  width: 2em;
+  height: 2em;
+  object-fit: contain;
+}
+
+.timeline-entry::after {
+  display: none;
+}
+
+.timeline-date {
+  color: #cc2a41;
+  font-weight: 600;
+  font-size: 0.95em;
+  margin-bottom: 0.5em;
+}
+
+.timeline-title {
+  font-weight: 600;
+  font-size: 1.1em;
+  margin-bottom: 0.3em;
+}
+
+.timeline-org {
+  color: #666;
+  font-style: italic;
+  margin-bottom: 0.8em;
+}
+
+.timeline-description {
+  line-height: 1.6;
+  color: #22272a;
+}
