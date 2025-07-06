@@ -1,0 +1,214 @@
+---
+events:
+- date: 2025-06-01
+  title: "Technical Lead, CNCF TAG Operational Resilience"
+  organization: "Cloud Native Computing Foundation"
+  icon: "/images/cncf.png"
+  description: |
+    Appointed as the [Technical Lead for the CNCF Technical Advisory Group on Operational Resilience](https://github.com/cncf/toc/tree/main/tags/tag-operational-resilience#tech-leads).
+    This role involves guiding the community in best practices for operational resilience in cloud-native
+    environments, contributing to the development of standards and tools that enhance the reliability and
+    stability of cloud-native applications.
+- date: 2025-05-01
+  title: "Moved to the Kubernetes Distribution Team for vSphere Kubernetes Service"
+  organization: "Broadcom"
+  icon: "/images/broadcom.png"
+  description: |
+    I moved to the [vSphere Kubernetes Distribution](https://www.vmware.com/docs/modern-applications-vmware-vsphere-kubernetes-service) Team at Broadcom, where I primarily work on making sure the
+    distribution is performant at scale and introducing cutting-edge Kubernetes features to the distribution and ensuring that vSphere remains a leading platform for
+    running Kubernetes workloads. This role involves collaborating with various teams to integrate new features,
+    addressing compatibility issues, and ensuring that the distribution meets the needs of enterprise users.
+- date: 2025-01-12
+  title: "Chair, PyCon India 2025"
+  organization: "PyCon India"
+  icon: "/images/python.png"
+  description: |
+    Took over as the Chair of [PyCon India 2025](https://in.pycon.org/2025/), the largest Python conference in Asia, held in Bengaluru.
+- date: 2024-10-12
+  title: "Co-Chair, PyCon India 2024"
+  organization: "PyCon India"
+  icon: "/images/python.png"
+  description: |
+    [Co-Chaired PyCon India 2024](https://in.pycon.org/2024/about/), the largest Python conference in Asia, held in Bengaluru. This role involved
+    overseeing the event's organization, coordinating with speakers and sponsors, and ensuring a successful
+    experience for attendees. The conference featured talks, workshops, and networking opportunities for Python
+    enthusiasts from around the world.
+- date: 2023-11-22
+  title: "Joined Broadcom through acquisition of VMware"
+  organization: "Broadcom"
+  icon: "/images/broadcom.png"
+  description: |
+    [VMware was acquired by Broadcom](https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware), and I transitioned to the new organization while continuing my work on Tanzu
+    Application Engine.
+- date: 2023-10-28
+  title: "CNCF Ambassador"
+  organization: "Cloud Native Computing Foundation"
+  icon: "/images/cncf.png"
+  description: |
+    Became a CNCF Ambassador, representing the cloud-native community at conferences and events worldwide.
+    This role involves speaking at major industry conferences, mentoring new contributors, and helping spread
+    awareness about cloud-native technologies and best practices.
+
+    **Re-elected again in 2024 for a 2 year term until October 2026.**
+- date: 2023-10-06
+  title: "Promoted to Staff Engineer, VMware"
+  organization: "VMware"
+  icon: "/images/vmware.png"
+  description: |
+    Promoted to Staff Engineer at VMware, recognizing my significant contributions to the Kubernetes Engineering
+    efforts. In addition, I moved to the Tanzu Application Engine Team to build scalable Kubernetes like control
+    planes for the next generation of VMware's Kubernetes solutions. This role involves leading architectural
+    decisions, mentoring junior engineers, and driving the technical direction of the team. I owned the
+    API Machinery, Architecture, Code Organization, Scalability verticals of the product.
+- date: 2023-08-26
+  title: "Featured in The Times of India"
+  organization: "The Times of India"
+  icon: "/images/news.svg"
+  description: |
+    [Featured in India's most widely read English newspaper, The Times of India](https://timesofindia.indiatimes.com/business/india-business/open-source-contributions-are-hugely-rewarding/articleshow/103083017.cms), for my contributions to the
+    cloud-native community and Kubernetes ecosystem. The article highlights my journey as an open source
+    contributor, my role in the Kubernetes community, and my efforts to promote open source technologies in India.
+
+    ![Newspaper clipping](/images/toi2023.jpg)
+- date: 2023-04-12
+  title: "Chair of SIG Contributor Experience, Kubernetes"
+  organization: "Kubernetes"
+  icon: "/images/kubernetes.png"
+  description: |
+    Became chair of SIG Contributor Experience, focusing on improving the onboarding experience for new
+    contributors and maintaining the health of the Kubernetes contributor community. This role involves creating
+    programs, tools, and processes that make it easier for people to contribute to Kubernetes.
+- date: 2022-11-01
+  title: "Kubernetes Contributor Award 2022"
+  organization: "Kubernetes"
+  icon: "/images/kubernetes.png"
+  description: |
+    Received the [Kubernetes Contributor Award 2022](https://www.kubernetes.dev/community/awards/2022/)
+    for driving continuous improvement of community github administration.
+- date: 2022-10-01
+  title: "Elected member, Kubernetes Steering Committee"
+  organization: "Kubernetes"
+  icon: "/images/kubernetes.png"
+  description: |
+    Elected to serve on the Kubernetes Steering Committee, the governing body responsible for the strategic
+    direction and health of the Kubernetes project. This role involves making key decisions about the project's
+    future, managing community resources, and ensuring the long-term sustainability of one of the world's most
+    important open source projects.
+- date: 2022-04-06
+  title: "Kubernetes GitHub Administrator"
+  organization: "Kubernetes"
+  icon: "/images/kubernetes.png"
+  description: |
+    Appointed as a Kubernetes GitHub Administrator, responsible for managing the project's GitHub repositories,
+    ensuring smooth operations, and maintaining the integrity of the codebase. This role involves overseeing
+    repository settings, managing access controls, and supporting contributors in their development efforts.
+- date: 2022-01-31
+  title: "Promoted to Senior Member of Technical Staff, VMware"
+  organization: "VMware"
+  icon: "/images/vmware.png"
+  description: |
+    Promoted to Senior Member of Technical Staff at VMware, recognizing my contributions to the Kubernetes
+    Engineering efforts for Tanzu Kubernetes Grid, VMware's enterprise Kubernetes solution, in addition to my
+    involvement in growing the team and mentoring junior engineers.
+- date: 2021-11-01
+  title: "Kubernetes Contributor Award 2021"
+  organization: "Kubernetes"
+  icon: "/images/kubernetes.png"
+  description: |
+    Received the [Kubernetes Contributor Award 2021](https://www.kubernetes.dev/community/awards/2021/
+    for being a huge impact in SIG Release as the lead for the 1.21 release, as a release manager associate, as a branch
+    manager shadow for the 1.23 release, for bringing the CI Signal tool into a Kubernetes community repository, and for being
+    willing to contribute to the success of the project and the SIG.
+- date: 2021-08-23
+  title: "Elected member, Kubernetes Code of Conduct Committee"
+  organization: "Kubernetes"
+  icon: "/images/kubernetes.png"
+  description: |
+    Elected to the Kubernetes Code of Conduct Committee, responsible for upholding the community's standards
+    of conduct and ensuring a welcoming and inclusive environment for all contributors. This role involves
+    investigating reports of misconduct, providing guidance on community interactions, and promoting a culture
+    of respect and collaboration.
+- date: 2021-01-01
+  title: "Kubernetes 1.21 Release Lead"
+  organization: "Kubernetes Release Team"
+  icon: "/images/kubernetes.png"
+  description: |
+    Led the Kubernetes 1.21 release as Release Lead, coordinating a global team of contributors to deliver
+    features and improvements to millions of users worldwide. This role involved managing the entire release
+    lifecycle, from planning to delivery, while ensuring quality and stability standards. I was the first Indian
+    to lead a Kubernetes release, marking a significant milestone for the Indian open source community.
+- date: 2020-12-14
+  title: "Member of Technical Staff III, Kubernetes Engineering, VMware"
+  organization: "VMware"
+  icon: "/images/vmware.png"
+  description: |
+    Joined VMware where I started working on Kubernetes Engineering efforts for Tanzu Kubernetes Grid,
+    VMware's enterprise Kubernetes solution. I focused on leading upstream Kubernetes initiatives which
+    directly impact the business.
+- date: 2020-08-10
+  title: "Featured in The Times of India"
+  organization: "The Times of India"
+  icon: "/images/news.svg"
+  description: |
+    [Featured in India's most widely read English newspaper, The Times of India](https://gadgetsnow.indiatimes.com/tech-news/python-may-be-your-safest-bet-for-a-career-in-coding/articleshow/77466905.cms),
+    along with [Sayan Chowdhury](https://yudocaa.in), the chair of PyCon India 2020, for contributions to the Python
+    India ecosystem and organizing one of the largest Python conferences in Asia, PyCon India 2020.
+- date: 2020-01-09
+  title: "Joined Clarisights as a Software Engineer in the Infrastructure Team"
+  organization: "Clarisights"
+  icon: "/images/clarisights.png"
+  description: |
+    Led and architected better infrastructure components and practices for a highly available SaaS BI
+    platform ingesting billions of rows of data every day. I laid down a lot of the groundwork for the
+    infrastructure that is still in use today, including the migration to Infrastructure as a Code using
+    Terraform and the adoption of various scalable technologies like Apache Ignite to introduce tiered
+    caching, effectively saving 90% costs on cache. I worked on reducing the total infrastructure costs
+    by half, leading to better business runway.
+- date: 2019-09-01
+  title: "Kubernetes Release Team Shadow - Enhancements"
+  organization: "Kubernetes Release Team"
+  icon: "/images/kubernetes.png"
+  description: |
+    Started my journey with the Kubernetes Release Team as a Release Team Shadow, learning the intricate
+    processes behind delivering reliable software to a global user base. This experience provided deep insights
+    into large-scale project management and community coordination.
+- date: 2019-07-01
+  title: "Started Contributing to Kubernetes"
+  organization: "Kubernetes"
+  icon: "/images/kubernetes.png"
+  description: |
+    Made my first contribution to the Kubernetes project, starting a journey that would lead to deep
+    involvement in the community. This initial contribution sparked my passion for open source collaboration
+    and distributed systems.
+- date: 2018-06-01
+  title: "Joined Rorodata aka Algoshelf as a Full Time Software Engineer"
+  organization: "rorodata"
+  icon: "/images/rorodata.webp"
+  description: |
+    Joined Rorodata, a data engineering startup, as a full-time software engineer after working at the
+    company since May 2017 as an intern and then as a part-time engineer in the infrastructure team.
+    At Rorodata, I focused on building scalable data pipelines and infrastructure to support data-driven applications.
+    I worked on a range of technologies, including but not limited to, Python, Kubernetes, and various
+    data processing frameworks. I was also one of the first full time engineers at the company.
+- date: 2018-04-18
+  title: "Graduated with a Bachelor of Technology Degree, Indian Institute of Technology, Roorkee"
+  organization: "Indian Institute of Technology, Roorkee"
+  icon: "/images/Indian_Institute_of_Technology_Roorkee_Logo.svg"
+  description: |
+    Completed my Bachelor of Technology degree with a minor in Computer Science
+    and major in Metallurgical and Materials Engineering from the Indian
+    Institute of Technology, Roorkee, one of India's premier engineering institutions.
+# - date: 2017-08-15
+#   title: "First **International** Conference Talk Session - Building Camera Based Intelligent Applications"
+#   organization: "FOSSASIA Summit"
+#   icon: "/images/PyData.png"
+#   description: |
+#     As a student, I delivered my first conference talk at PyData Delhi, where I
+#     shared insights on building camera-based intelligent applications using Python.
+# - date: 2017-08-15
+#   title: "First Conference Talk Session - Building Camera Based Intelligent Applications"
+#   organization: "PyData Delhi"
+#   icon: "/images/PyData.png"
+#   description: |
+#     As a student, I delivered my first conference talk at PyData Delhi, where I
+#     shared insights on building camera-based intelligent applications using Python.
