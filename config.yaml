@@ -44,15 +44,18 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Setup
-      url: /setup
+    - name: About
+      url: /about
       weight: 2
-    - name: Blog
-      url: /posts
-      weight: 3
     - name: Speaking
       url: /speaking
+      weight: 3
+    - name: Setup
+      url: /setup
       weight: 4
+    - name: Blog
+      url: /posts
+      weight: 5
     - name: Contact
       url: /contact
-      weight: 5
+      weight: 6
