@@ -86,3 +86,39 @@
   line-height: 1.6;
   color: #22272a;
 }
+
+.timeline-description img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 0.5em;
+  border-radius: 3px;
+}
+
+.timeline-description a:hover {
+  color: #cc2a41;
+}
+
+/* Mobile: collapse the timeline for narrow screens */
+@media (max-width: 480px) {
+  .timeline::after {
+    display: none;
+  }
+
+  .timeline-entry {
+    margin-left: 0;
+  }
+
+  .timeline-icon {
+    position: relative;
+    top: auto;
+    left: auto;
+    height: 2.5em;
+    width: 2.5em;
+    margin-bottom: 0.5em;
+  }
+
+  .timeline-icon img {
+    width: 1.6em;
+    height: 1.6em;
+  }
+}
