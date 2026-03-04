@@ -6,6 +6,8 @@ pygmentsUseClasses: false
 pygmentsCodefences: true
 pygmentsStyle: monokai
 params:
+  author:
+    email: hey@nabarun.dev
   description: "Open Source. Distributed Systems. Infrastructure."
   showMainSection: false
   mainSection: "posts"
