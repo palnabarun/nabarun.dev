@@ -55,74 +55,74 @@ talks:
 - date: 2024-12-12
   title: "Contributing to Kubernetes in Its Second Decade - How ContribEx Enhances the Journey!"
   location: "KubeCon + CloudNativeCon India 2024"
-  link: https://sched.co/1mpDm
+  link: "https://sched.co/1mpDm"
 - date: 2024-12-12
   title: ":star:Keynote:star: Unity in Diversity: Making Cloud Native Ubiquitous"
   location: "KubeCon + CloudNativeCon India 2024"
-  link: https://sched.co/1r7T6
+  link: "https://sched.co/1r7T6"
 - date: 2024-11-15
   title: "Contributing to Kubernetes in Its Second Decade - SIG ContribEx Style!"
   location: "KubeCon + CloudNativeCon North America 2024"
-  link: https://sched.co/1hoy3
+  link: "https://sched.co/1hoy3"
 - date: 2024-11-13
   title: "Beyond 'Can You Mentor Me?' - Crafting the Contribution Ladder"
   location: "KubeCon + CloudNativeCon North America 2024"
-  link: https://sched.co/1i7kz
+  link: "https://sched.co/1i7kz"
 - date: 2024-06-12
   title: "Keeping Social Engineering Attacks Away from OSS Communities "
   location: "GitHub Constellation 2024"
-  link: https://githubconstellation.com/sessions
-  slides: https://speakerdeck.com/palnabarun/keeping-social-engineering-attacks-away-from-oss-communities
+  link: "https://githubconstellation.com/sessions"
+  slides: "https://speakerdeck.com/palnabarun/keeping-social-engineering-attacks-away-from-oss-communities"
 - date: 2024-06-11
   title: "Leading Kubernetes into its Second Decade"
   location: "Kubernetes Podcast from Google"
-  link: https://kubernetespodcast.com/episode/228-new-leads/
+  link: "https://kubernetespodcast.com/episode/228-new-leads/"
 - date: 2024-03-21
   title: "Contributing to Kubernetes in Its Second Decade - SIG ContribEx Style!"
   location: "KubeCon + CloudNativeCon Europe 2024"
-  link: https://sched.co/1Yhgm
+  link: "https://sched.co/1Yhgm"
 - date: 2024-03-20
   title: "Kubernetes Steering Committee: Genesis, Bootstrap, Now & Future"
   location: "KubeCon + CloudNativeCon Europe 2024"
-  link: https://sched.co/1YhgX
+  link: "https://sched.co/1YhgX"
 - date: 2023-12-08
   title: "Kubernetes - The Universal Control Plane"
   location: KubeDay India 2023
-  slides: https://speakerdeck.com/palnabarun/kubernetes-the-universal-control-plane
-  link: https://sched.co/1T73u
+  slides: "https://speakerdeck.com/palnabarun/kubernetes-the-universal-control-plane"
+  link: "https://sched.co/1T73u"
 - date: 2023-11-09
   title: "Learnings from Sustainably Steering the Kubernetes Project"
   location: "KubeCon + CloudNativeCon North America 2023"
-  slides: https://speakerdeck.com/palnabarun/learnings-from-sustainably-steering-the-kubernetes-project
-  link: https://sched.co/1R2vZ
+  slides: "https://speakerdeck.com/palnabarun/learnings-from-sustainably-steering-the-kubernetes-project"
+  link: "https://sched.co/1R2vZ"
 - date: 2023-11-09
   title: "The Eight Fallacies of Distributed Cloud Native Communities"
   location: "KubeCon + CloudNativeCon North America 2023"
-  slides: https://speakerdeck.com/palnabarun/the-eight-fallacies-of-distributed-cloud-native-communities
-  link: https://sched.co/1R2tv
+  slides: "https://speakerdeck.com/palnabarun/the-eight-fallacies-of-distributed-cloud-native-communities"
+  link: "https://sched.co/1R2tv"
 - date: 2023-11-08
   title: "Kubernetes Project Update on :star:Keynote:star: stage on behalf of Steering Committee"
   location: "KubeCon + CloudNativeCon North America 2023"
 - date: 2023-11-06
   title: "Kubernetes Steering Committee Ask Us Anything"
   location: "Kubernetes Contributor Summit Chicago 2023"
-  link: https://sched.co/1Sp9K
+  link: "https://sched.co/1Sp9K"
 - date: 2023-08-11
   title: "How to become a top open-source developer?"
   location: "Level Up with Times Techies"
-  link: https://x.com/timestechies/status/1689606670534811648
-  recording: https://www.youtube.com/watch?v=DevimA2UJb0
+  link: "https://x.com/timestechies/status/1689606670534811648"
+  recording: "https://www.youtube.com/watch?v=DevimA2UJb0"
 - date: 2023-06-02
   title: ":star:Keynote:star: State of Kubernetes and CNCF: A path to a sustainable and secure future"
   location: "Kubernetes Community Days Bengaluru"
-  link: https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents-kubernetes-community-days-bengaluru-2023-in-person/
+  link: "https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents-kubernetes-community-days-bengaluru-2023-in-person/"
   slides: "https://speakerdeck.com/palnabarun/state-of-kubernetes-and-cncf-a-path-to-a-sustainable-and-secure-future"
 - date: 2023-04-20
   title: "Wildfires, Firefighters and Sustainability Learnings from Mitigating Kubernetes Fires in the Community"
   location: "KubeCon + CloudNativeCon Europe"
   slides: "https://speakerdeck.com/palnabarun/wildfires-firefighters-and-sustainability-learnings-from-mitigating-kubernetes-fires-in-the-community"
-  recording: https://www.youtube.com/watch?v=mcBp63qoXpE
-  link: https://sched.co/1HyeH
+  recording: "https://www.youtube.com/watch?v=mcBp63qoXpE"
+  link: "https://sched.co/1HyeH"
 - date: 2023-04-20
   title: "Kubernetes Project Update on :star:Keynote:star: stage on behalf of Steering Committee"
   location: "KubeCon + CloudNativeCon Europe"
@@ -130,12 +130,12 @@ talks:
   title: "What does the Kubernetes Steering Committee Steer?"
   location: "KubeCon + CloudNativeCon Europe"
   slides: "https://speakerdeck.com/palnabarun/what-does-the-kubernetes-steering-committee-steer"
-  recording: https://www.youtube.com/watch?v=d3xQw_JE6So
-  link: https://sched.co/1HyUq
+  recording: "https://www.youtube.com/watch?v=d3xQw_JE6So"
+  link: "https://sched.co/1HyUq"
 - date: 2023-04-18
   title: "AMA Kubernetes Steering Committee"
   location: "Kubernetes Contributor Summit Amsterdam 2023"
-  link: https://sched.co/1LXAm
+  link: "https://sched.co/1LXAm"
 - date: 2023-03-25
   title: ":zap:Lightning Talk:zap: Kubernetes registry changes"
   location: Bangalore Kubernetes Meetup
@@ -145,134 +145,134 @@ talks:
 - date: 2022-11-08
   title: "Kubernetes Release: Song and Dance of People and Processes. What can large OSS projects learn from it?"
   location: Linux Foundation Member Summit 2022
-  link: https://sched.co/1BKDX
+  link: "https://sched.co/1BKDX"
 - date: 2022-10-28
   title: "AMA Kubernetes Steering Committee"
   location: KubeCon + CloudNativeCon North America 2022
-  recording: https://www.youtube.com/watch?v=AqpZE-mpz5w
-  link: https://sched.co/182Pc
+  recording: "https://www.youtube.com/watch?v=AqpZE-mpz5w"
+  link: "https://sched.co/182Pc"
 - date: 2022-10-27
   title: "SIG Contributor Experience Deep Dive"
   location: KubeCon + CloudNativeCon North America 2022
-  recording: https://www.youtube.com/watch?v=C-k_h3vzWxE
-  link: https://sched.co/182Nm
+  recording: "https://www.youtube.com/watch?v=C-k_h3vzWxE"
+  link: "https://sched.co/182Nm"
 - date: 2022-09-17
   title: "Package signing using sigstore"
   location: BangPypers
-  slides: https://speakerdeck.com/palnabarun/package-signing-using-sigstore
+  slides: "https://speakerdeck.com/palnabarun/package-signing-using-sigstore"
 - date: 2022-07-30
   title: ":star:Keynote:star: State of Kubernetes in 2022"
   location: Kubernetes Community Days Taiwan
-  slides: https://speakerdeck.com/palnabarun/state-of-kubernetes-in-2022
-  recording: https://www.youtube.com/watch?v=8rGhfmbhZqs&t=18757s
+  slides: "https://speakerdeck.com/palnabarun/state-of-kubernetes-in-2022"
+  recording: "https://www.youtube.com/watch?v=8rGhfmbhZqs&t=18757s"
 - date: 2022-07-23
   title: Leadership learnings from Kubernetes releases
   location: IndiaFOSS 2.0
-  slides: https://speakerdeck.com/palnabarun/leadership-learnings-from-kubernetes-releases
+  slides: "https://speakerdeck.com/palnabarun/leadership-learnings-from-kubernetes-releases"
 - date: 2022-05-18
   title: Prow! Leveraging Developer-Centric CI for Your OSS Project!
   location: "KubeCon + CloudNativeCon Europe 2022"
-  slides: https://speakerdeck.com/palnabarun/prow-leveraging-developer-centric-ci-for-your-oss-project
-  recording: https://www.youtube.com/watch?v=sdU-3cqiJmg
-  link: https://sched.co/ytn6
+  slides: "https://speakerdeck.com/palnabarun/prow-leveraging-developer-centric-ci-for-your-oss-project"
+  recording: "https://www.youtube.com/watch?v=sdU-3cqiJmg"
+  link: "https://sched.co/ytn6"
 - date: 2021-10-13
   title: "Hardening the Kubernetes Software Supply Chain Through Better Transparency"
   location: "KubeCon + CloudNativeCon North America 2021"
-  recording: https://www.youtube.com/watch?v=W6hUXv66rRc
+  recording: "https://www.youtube.com/watch?v=W6hUXv66rRc"
 - date: 2021-09-17
   title: "Workshop: Making your Python applications Kubernetes Native"
   location: "PyCon India 2021"
 - date: 2021-09-12
   title: "What it takes to contributes to OSS"
   location: "The Fast Tracked Programmer Mentoring Series"
-  recording: https://www.youtube.com/watch?v=HEhBqI_FCw4
+  recording: "https://www.youtube.com/watch?v=HEhBqI_FCw4"
 - date: 2021-09-11
   title: "Panel: Time for Asia - Community Governance Leadership Matters"
   location: "Open Infra Days Asia"
-  recording: https://www.youtube.com/watch?v=yvPX7y4vQ54
+  recording: "https://www.youtube.com/watch?v=yvPX7y4vQ54"
 - date: 2021-09-11
   title: "Exploring the Kubernetes Clients ecosystem"
   location: "Open Infra Days Asia"
-  recording: https://www.youtube.com/watch?v=pV0JuUcThuM
-  slides: https://speakerdeck.com/palnabarun/exploring-the-kubernetes-clients-ecosystem
+  recording: "https://www.youtube.com/watch?v=pV0JuUcThuM"
+  slides: "https://speakerdeck.com/palnabarun/exploring-the-kubernetes-clients-ecosystem"
 - date: 2021-09-12
   title: "Understanding Kubernetes API Internals"
   location: "Kubernetes Community Days Bengaluru"
-  slides: https://speakerdeck.com/palnabarun/understanding-api-internals
-  recording: https://bit.ly/kcdblr-api-internals-video
+  slides: "https://speakerdeck.com/palnabarun/understanding-api-internals"
+  recording: "https://bit.ly/kcdblr-api-internals-video"
 - date: 2021-06-24
   title: "Kubernetes New Contributor Workshop"
   location: "Kubernetes Community Days Bengaluru"
-  slides: https://speakerdeck.com/palnabarun/kcd-blr-kubernetes-contributor-workshop
+  slides: "https://speakerdeck.com/palnabarun/kcd-blr-kubernetes-contributor-workshop"
 - date: 2021-05-22
   title: "First Commit with Nabarun Pal"
   location: "FOSS United"
-  recording: https://www.youtube.com/watch?v=8S5QRajPd-k
-  event: https://fossunited.org/first-commit/3
+  recording: "https://www.youtube.com/watch?v=8S5QRajPd-k"
+  event: "https://fossunited.org/first-commit/3"
 - date: 2021-05-20
   title: "What's new in Kubernetes 1.21"
   location: "Cloud Native Computing Foundation Webinar"
-  slides: https://speakerdeck.com/palnabarun/whats-new-in-kubernetes-1-dot-21
-  recording: https://www.cncf.io/online-programs/cncf-live-webinar-kubernetes-1-21-release/
+  slides: "https://speakerdeck.com/palnabarun/whats-new-in-kubernetes-1-dot-21"
+  recording: "https://www.cncf.io/online-programs/cncf-live-webinar-kubernetes-1-21-release/"
 - date: 2021-04-15
   title: "Kubernetes 1.21"
   location: "Kubernetes Podcast from Google"
-  recording: https://kubernetespodcast.com/episode/146-kubernetes-1.21/
+  recording: "https://kubernetespodcast.com/episode/146-kubernetes-1.21/"
 - date: 2021-03-20
   title: "Live Fireside Chat: Contributing to Kubernetes"
-  slides: https://www.nabarun.in/talk/2021/kubesummit/contributing-101/
-  recording: https://developer.ibm.com/conferences/kubesummit/fireside-day2/
+  slides: "https://www.nabarun.in/talk/2021/kubesummit/contributing-101/"
+  recording: "https://developer.ibm.com/conferences/kubesummit/fireside-day2/"
   location: KubeSummit 2021
 - date: 2021-02-20
   title: "Workshop: Contributing to Kubernetes 101"
-  slides: https://www.nabarun.in/talk/2021/k8sblr/contributing-101/
-  recording: https://www.youtube.com/watch?v=FgsXbHBRYIc
+  slides: "https://www.nabarun.in/talk/2021/k8sblr/contributing-101/"
+  recording: "https://www.youtube.com/watch?v=FgsXbHBRYIc"
   location: Kubernetes Bangalore Meetup
 - date: 2020-10-03
   title: "Python on Kubernetes - A hands-on workshop"
   location: PyCon India
 - date: 2020-10-03
   title: ":zap:Lightning Talk:zap: Kubernetes Deployment Best Practices"
-  slides: https://speakerdeck.com/palnabarun/kubernetes-deployment-best-practices
+  slides: "https://speakerdeck.com/palnabarun/kubernetes-deployment-best-practices"
   location: PyCon India
-  recording: https://www.youtube.com/watch?v=o9NcWkhvLuA
+  recording: "https://www.youtube.com/watch?v=o9NcWkhvLuA"
 - date: 2020-07-18
   title: "What's new in Kubernetes 1.19"
-  slides: https://www.nabarun.in/talk/2020/cncfwebinar
+  slides: "https://www.nabarun.in/talk/2020/cncfwebinar"
   location: CNCF Webinar
-  recording: https://www.youtube.com/watch?v=To3noEuyynE
+  recording: "https://www.youtube.com/watch?v=To3noEuyynE"
 - date: 2020-09-19
   title: "The 12 Factor Snake"
-  slides: https://www.nabarun.in/talk/2020/pyconindia/12-factor-snake/
+  slides: "https://www.nabarun.in/talk/2020/pyconindia/12-factor-snake/"
   location: PyCon India Flames
 - date: 2020-09-10
   title: "Getting Started contributing to Kubernetes"
-  recording: https://www.youtube.com/watch?v=wUHajE_zrDY
+  recording: "https://www.youtube.com/watch?v=wUHajE_zrDY"
   location: HasGeek AMA on Kubernetes
 - date: 2020-08-15
   title: "Python: A language impacting every sphere of life!"
-  slides: https://nabarun.in/talk/2020/timestechies
-  recording: https://www.facebook.com/TimesTechies/recordings/2437736456525174/
+  slides: "https://nabarun.in/talk/2020/timestechies"
+  recording: "https://www.facebook.com/TimesTechies/recordings/2437736456525174/"
   location: "Times of India #TimesTechies Webinar"
 - date: 2020-01-15
   title: The Kubernetes Client Universe
   location: Bangalore Kubernetes Meetup
-  slides: https://nabarun.in/talk/2020/k8sblr
+  slides: "https://nabarun.in/talk/2020/k8sblr"
 - date: 2019-07-27
   title: "Making Lambda simpler for data scientists"
-  slides: https://speakerdeck.com/palnabarun/making-lambda-simpler-for-data-scientists
+  slides: "https://speakerdeck.com/palnabarun/making-lambda-simpler-for-data-scientists"
   location: AWS Community Day Bengaluru
 - date: 2018-04-15
   title: "Building Microservices with firefly"
-  slides: https://nabarun.in/talk/2018/fossasiasummit
+  slides: "https://nabarun.in/talk/2018/fossasiasummit"
   location: FOSSAsia Summit
-  recording: https://www.youtube.com/watch?v=8ks9EOc9FPQ
+  recording: "https://www.youtube.com/watch?v=8ks9EOc9FPQ"
 - date: 2017-11-04
   title: "Building Microservices with firefly"
-  slides: https://nabarun.in/talk/2017/pyconindia
+  slides: "https://nabarun.in/talk/2017/pyconindia"
   location: PyCon India
-  recording: https://www.youtube.com/watch?v=ih4tm6jE0Pc
+  recording: "https://www.youtube.com/watch?v=ih4tm6jE0Pc"
 - date: 2017-08-15
   title: "Building Camera Based Intelligent Applications"
-  slides: https://speakerdeck.com/palnabarun/building-camera-based-intelligent-applications
+  slides: "https://speakerdeck.com/palnabarun/building-camera-based-intelligent-applications"
   location: PyData Delhi

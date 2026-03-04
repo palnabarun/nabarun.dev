@@ -27,7 +27,7 @@ Some of my notable trips across time.
 - Azerbaijan :car:
 - Germany
 - Austria
-- Leichtenstein
+- Liechtenstein
 - Switzerland
 - Luxembourg
 - Varkala, Kerala, India
