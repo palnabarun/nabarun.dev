@@ -21,12 +21,3 @@ For a detailed look at my professional journey and key milestones, check out my 
 
 [pronoun]: //pronoun.is/he
 [vmware-broadcom]: //www.vmware.com
-[tanzu-broadcom]: //tanzu.vmware.com
-[kubernetes]: //kubernetes.io
-[pythonindia]: //github.com/pythonindia
-[clarisights]: //clarisights.com
-[algoshelf]: //github.com/rorodata
-[iitr]: //iitr.ac.in
-[t-chess]: https://twitter.com/i/lists/1413907332568817665
-[speaking]: /speaking
-[kcp]: //kcp.io
