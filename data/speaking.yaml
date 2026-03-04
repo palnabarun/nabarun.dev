@@ -1,16 +1,56 @@
 ---
 talks:
+- date: 2026-03-25
+  title: "TAG Operational Resilience: Sustainability Month To Release Guidelines"
+  location: "KubeCon + CloudNativeCon Europe 2026"
+  link: "https://sched.co/2EF3x"
+- date: 2026-03-24
+  title: "Policy Engines for Kubernetes: Picking One Without Losing Your Mind"
+  location: "KubeCon + CloudNativeCon Europe 2026"
+  link: "https://sched.co/2CW0S"
+- date: 2026-03-24
+  title: "SIG Contributor Experience: Guiding Contributors Through the Project"
+  location: "KubeCon + CloudNativeCon Europe 2026"
+  link: "https://sched.co/2EF6T"
+- date: 2026-03-22
+  title: "Guidelines for Achieving Project Release Maturity"
+  location: "Maintainer Summit Europe 2026"
+  link: "https://sched.co/2EWhY"
+- date: 2025-11-12
+  title: "Building Resilient Cloud Native Infrastructure in the Second Decade"
+  location: "KubeCon + CloudNativeCon North America 2025"
+  link: "https://sched.co/27kZv"
+- date: 2025-11-11
+  title: "Contributing To Kubernetes in an Age of AI"
+  location: "KubeCon + CloudNativeCon North America 2025"
+  link: "https://sched.co/27NmV"
+- date: 2025-11-11
+  title: "Kubernetes and etcd: Common Pitfalls and How To Avoid Them"
+  location: "KubeCon + CloudNativeCon North America 2025"
+  link: "https://sched.co/27FWl"
+- date: 2025-08-07
+  title: "Kubernetes Steering Committee - Navigating the Tides of the Kubernetes Ocean"
+  location: "KubeCon + CloudNativeCon India 2025"
+  link: "https://sched.co/23Eux"
+- date: 2025-08-06
+  title: "Kubernetes SIG Contributor Experience: A Look Back, a Step Forward"
+  location: "KubeCon + CloudNativeCon India 2025"
+  link: "https://sched.co/23Euc"
+- date: 2025-08-06
+  title: "BoF: Open Source in Kubernetes in the UK and India"
+  location: "KubeCon + CloudNativeCon India 2025"
+  link: "https://sched.co/26egH"
 - date: 2025-04-04
   title: "Contributing To Kubernetes in Its Second Decade - How ContribEx Enhances the Journey!"
-  location: "KubeCon + CloudNativeCon Europe 2024"
+  location: "KubeCon + CloudNativeCon Europe 2025"
   link: "https://sched.co/1td1K"
 - date: 2025-04-03
   title: "Extending Kubernetes Resource Model (KRM) Beyond Kubernetes Workloads"
-  location: "KubeCon + CloudNativeCon Europe 2024"
+  location: "KubeCon + CloudNativeCon Europe 2025"
   link: "https://sched.co/1txAB"
 - date: 2025-04-02
   title: "Tutorial: Exploring Multi-Tenant Kubernetes APIs and Controllers With Kcp"
-  location: "KubeCon + CloudNativeCon Europe 2024"
+  location: "KubeCon + CloudNativeCon Europe 2025"
   link: "https://sched.co/1tx6b"
 - date: 2024-12-12
   title: "Contributing to Kubernetes in Its Second Decade - How ContribEx Enhances the Journey!"
