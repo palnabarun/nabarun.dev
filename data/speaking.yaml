@@ -107,6 +107,11 @@ talks:
   title: "Kubernetes Steering Committee Ask Us Anything"
   location: "Kubernetes Contributor Summit Chicago 2023"
   link: https://sched.co/1Sp9K
+- date: 2023-08-11
+  title: "How to become a top open-source developer?"
+  location: "Level Up with Times Techies"
+  link: https://x.com/timestechies/status/1689606670534811648
+  recording: https://www.youtube.com/watch?v=DevimA2UJb0
 - date: 2023-06-02
   title: ":star:Keynote:star: State of Kubernetes and CNCF: A path to a sustainable and secure future"
   location: "Kubernetes Community Days Bengaluru"
