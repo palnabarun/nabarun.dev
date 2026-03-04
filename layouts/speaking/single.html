@@ -14,6 +14,16 @@
         font-weight: 600;
     }
 
+    .talk-date {
+        white-space: nowrap;
+    }
+
+    .talk-location {
+        color: #666;
+        font-style: italic;
+        font-size: 0.85rem;
+    }
+
     .talk-metadata {
         display: flex;
         flex-direction: row;
@@ -24,14 +34,51 @@
         margin-right: 0.5rem;
     }
 
+    .talk-metadata-item a {
+        border: 1px solid #666;
+        border-radius: 3px;
+        padding: 0.1rem 0.35rem;
+        font-size: 0.8rem;
+        text-decoration: none;
+        color: #666;
+    }
+
+    .talk-metadata-item a:hover {
+        background-color: #cc2a41;
+        color: #fafafa;
+        border-color: #cc2a41;
+    }
+
     .years {
         display: flex;
         flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
         font-style: italic;
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background-color: #fafafa;
+        border-bottom: 1px solid #eee;
+        padding: 0.5rem 0;
     }
 
     .year {
         margin-right: 0.375rem;
+    }
+
+    .year a {
+        border: 1px solid #cc2a41;
+        border-radius: 3px;
+        padding: 0.15rem 0.4rem;
+        font-size: 0.85rem;
+        text-decoration: none;
+        color: #cc2a41;
+    }
+
+    .year a:hover {
+        background-color: #cc2a41;
+        color: #fafafa;
     }
 
     .year-jump {
@@ -55,6 +102,23 @@
         font-weight: 700;
         font-style: normal;
     }
+
+    .year-count {
+        color: #666;
+        font-size: 0.6em;
+        font-weight: 400;
+    }
+
+    @media (max-width: 480px) {
+        .talk-header {
+            flex-direction: column;
+        }
+
+        .talk-date {
+            font-size: 0.85rem;
+            color: #666;
+        }
+    }
 </style>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="content" itemprop="articleBody">
@@ -68,22 +132,24 @@
         <div class="years">
         <span class="year-jump">Jump to: </span>
         {{ range uniq $years }}
-            <a class="year" href="#{{ . }}">
-                {{ . }}
-            </a>
+            <span class="year">
+                <a href="#{{ . }}">{{ . }}</a>
+            </span>
         {{ end }}
         </div>
 
 
         {{ range uniq $years }}
+        {{ $year := . }}
+        {{ $count := 0 }}
+        {{ range $.Site.Data.speaking.talks }}
+            {{ if eq $year (dateFormat "2006" .date) }}{{ $count = add $count 1 }}{{ end }}
+        {{ end }}
         <div class="year-header-row">
-            <div class="year-header" id="{{ . }}">
-                {{ . }}
+            <div class="year-header" id="{{ $year }}">
+                {{ $year }} <span class="year-count">({{ $count }})</span>
             </div>
         </div>
-
-            {{ $year := . }}
-
 
             {{ range $.Site.Data.speaking.talks }}
                 {{ if eq $year (dateFormat "2006" .date) }}
@@ -94,10 +160,10 @@
                         {{ else }}
                         <div class="talk-title">{{ .title | emojify }}</div>
                         {{ end }}
-                        <div class="talk-date">{{ dateFormat "Jan 2006" .date }}</div>
+                        <div class="talk-date">{{ dateFormat "Jan 02, 2006" .date }}</div>
                     </div>
                     <div class="talk-location">
-                        (at) {{ .location }}
+                        {{ .location }}
                     </div>
                     <div class="talk-metadata">
                         {{ if .slides }}
